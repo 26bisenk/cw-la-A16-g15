@@ -15,7 +15,8 @@ Lab Assessment for CWS-01 RBU, Nagpur 2026 Semester-01 CSE Course. Submitted by 
 2. **Made first prototype using html5 + inline css** - Devansh(30) & Sai(11).
 2. **Added Bootstrap's CSS and images/names to burgur in webpage after them** - Kovidh(17).
 3. **Improved overall quality of webpage and added style.css for better aesthetic** - Bir(03).
-4. **Added readme.md & uploaded to GitHub** - Kovidh(17). 
+4. **Added readme.md & uploaded to GitHub** - Kovidh(17).
+5. **Made a Prototype in Figma** - Kovidh(17).
 
 ## Figma Prototype
 
